@@ -1,12 +1,10 @@
 import { useEffect } from 'react';
 
 import About from '@/modules/about';
-import Ballzone from '@/modules/ballzone';
-import Collabio from '@/modules/collabio';
 import Contact from '@/modules/contact';
 import CustomMouse from '@/modules/customMouse';
 import Hero from '@/modules/hero';
-import ProjectsList, { ProjectsHeader } from '@/modules/projects';
+import ProjectsList from '@/modules/projects';
 
 export default function HomePage() {
   useEffect(() => {
