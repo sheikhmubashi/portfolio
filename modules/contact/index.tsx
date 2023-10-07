@@ -24,11 +24,11 @@ const Contact = () => {
             </h1>
 
             <p className="mt-3 text-lg text-zinc-400 lg:mt-4 lg:text-xl">
-              dziecielskibruno@gmail.com
+              m.mubashirejaz@gmail.com
             </p>
             <a
               className="primary-gradient scale-btn hover:hover-gradient mt-4 rounded-2xl p-2 px-4 text-lg transition-all duration-300 lg:mt-6 lg:p-3 lg:px-6 lg:text-xl"
-              href="mailto:dziecielskibruno@gmail.com"
+              href="mailto:m.mubashirejaz@gmail.com"
             >
               Contact me
             </a>
@@ -51,9 +51,9 @@ const Contact = () => {
 
         <div className="absolute bottom-0 h-20 w-full">
           <div className="flex h-full w-full items-center justify-center gap-5 text-lg text-zinc-400 lg:text-xl">
-            <p>© 2022 Bruno Dzięcielski</p>
+            <p>© 2023 Mubashir Ejaz</p>
             <a
-              href="https://www.linkedin.com/in/bruno-dzi%C4%99cielski-1a0581211/"
+              href="https://www.linkedin.com/in/sheikhmubashir/"
               target="_blank"
               rel="noreferrer"
               aria-label="LinkedIn"
@@ -63,7 +63,7 @@ const Contact = () => {
             </a>
 
             <a
-              href="https://github.com/kriziu"
+              href="https://github.com/sheikhmubashi"
               target="_blank"
               rel="noreferrer"
               aria-label="GitHub"

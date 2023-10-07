@@ -28,7 +28,7 @@ const Hero = () => {
         </button>
         <a
           className="scale-btn"
-          href="pdf/brunodziecielski.pdf"
+          href="pdf/MubashirEjaz.pdf"
           target="_blank"
         >
           Resume

@@ -13,10 +13,12 @@ const AboutHeader = () => {
         onMouseEnter={setMouseVariant.text}
         onMouseLeave={setMouseVariant.default}
       >
-        I&apos;m Bruno, <br />a Full stack{' '}
+        I&apos;m Mubashir, <br />a Full stack{' '}
         <span className="text-gradient">Developer</span> <br /> that creates
         interactive <br />
-        <span className="text-gradient">web</span> applications.
+        <span className="text-gradient">Web</span> and <span className="text-gradient">Mobile</span>
+        <br />
+        applications.
       </motion.h2>
     </ScrollOpacity>
   );

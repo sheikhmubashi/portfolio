@@ -11,42 +11,52 @@ const ProjectsList = () => {
       <ScrollOpacity>
         <div className="grid grid-cols-1 place-items-center gap-5 md:grid-cols-2 md:gap-10 xl:grid-cols-3">
           <Project
-            title="kriziu/shoes-ecommerce"
-            description="Exemplary shop made in Next.JS and Strapi CMS containing fake products from Nike."
-            github="https://github.com/kriziu/shoes-ecommerce"
-            demo="https://shoes-ecommerce.herokuapp.com/"
+            title="Decotechs/Software House"
+            description="Explore the website I developed for my employer's software house, crafted with React and Ant Design – a showcase of digital solutions from our innovative team."
+            github="https://github.com/sheikhmubashi/decotechs"
+            demo="https://decotechs.com/"
             scrollTo
           />
           <Project
-            title="kriziu/collabio"
-            description="A real-time collaborative whiteboard made using Next.js and socket.io.
-            Users can move on a board, draw lines, shapes, add images and
-            download a drawing."
-            github="https://github.com/kriziu/collabio"
-            demo="https://collabio-kriziu.herokuapp.com/"
+            title="Trackkrr/EMS"
+            description="Trackarr: An employee management system, meticulously developed with React and Material-UI for seamless workforce management."
+            // github="https://github.com/sheikhmubashi/edrella"
+            demo="https://trackkrr.com"
           />
           <Project
-            title="kriziu/ballzone"
-            description="2D (top-down perspective) real-time game using WebRTC to connect. 2 teams where each players try to score a goal and win (like in soccer or hockey)."
-            github="https://github.com/kriziu/ballzone"
-            demo="https://ballzone.herokuapp.com/"
+            title="Anos/Ecommerce"
+            description="Anos: An e-commerce website designed and developed by me using Next.js and Material-UI for an exceptional online shopping experience."
+            github="https://github.com/sheikhmubashi/anos-collection"
+            demo="http://anos.pk/"
           />
           <Project
-            title="gonciuu/scanningworld"
-            description="An app where users scan QR Codes in popular places and get points that can be used to redeem some coupons. My part was to create backend and admin dashboard."
-            github="https://github.com/gonciuu/scanningworld"
+            title="broskees/NFT"
+            description="I have developed this website for our esteemed clientele, dedicated to facilitating NFT sales and purchases"
+            github="https://github.com/sheikhmubashi/broskees"
+            demo="https://www.broskees.io/"
           />
           <Project
-            title="kriziu/alcobusiness"
-            description="A party drinking game similar to Monopoly but with my own rules. Players moves around the board and have to buy places to avoid drinking."
-            github="https://github.com/kriziu/alcobusiness"
-            demo="https://alcobusiness.vercel.app/"
+            title="Edrella/LMS"
+            description="Edrella: A powerful learning management system inspired by Google Classroom and Facebook. Crafted with React, Material-UI, and React Query for an exceptional educational experience."
+            github="https://github.com/sheikhmubashi/edrella"
+            demo="https://edrella-b5659.web.app"
           />
           <Project
-            title="kriziu/kripoll"
-            description="Application that is similar to strawpoll.com. Create poll, vote and check results in real-time."
-            github="https://github.com/kriziu/kripoll"
-            demo="https://kripoll.herokuapp.com/"
+            title="Float Boat"
+            description="This is a website dedicated to rating boat services, meticulously crafted with React and Material-UI."
+            github="https://github.com/sheikhmubashi/floatBoat"
+            demo="http://average-rail.surge.sh/"
+          />
+          <Project
+            title="ukSite/Ecommerce"
+            description="This is a UK-based e-commerce platform, meticulously crafted with React"
+            github="https://github.com/sheikhmubashi/ukSItes"
+          />
+          <Project
+            title="Profile Wear/Ecommerce"
+            description="Profile Wear: Your destination for men's and women's clothing."
+            github="https://github.com/sheikhmubashi/profileWear"
+            demo="steady-end.surge.sh"
           />
         </div>
 
@@ -54,7 +64,7 @@ const ProjectsList = () => {
           For more projects checkout my{' '}
           <a
             className="text-gradient hover:hover-gradient"
-            href="https://github.com/kriziu"
+            href="https://github.com/sheikhmubashi"
             target="_blank"
             rel="noreferrer"
           >

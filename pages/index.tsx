@@ -25,11 +25,11 @@ export default function HomePage() {
 
       <About />
 
-      <Collabio />
+      {/* <Collabio /> */}
 
-      <ProjectsHeader />
+      {/* <ProjectsHeader /> */}
 
-      <Ballzone />
+      {/* <Ballzone /> */}
 
       <div className="h-[20vh] md:h-[50vh]" />
 
