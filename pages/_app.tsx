@@ -1,9 +1,11 @@
 import '@/common/styles/global.css';
+
 import localFont from '@next/font/local';
 import { Analytics } from '@vercel/analytics/react';
 import { MotionConfig } from 'framer-motion';
 import type { AppProps } from 'next/app';
 import Head from 'next/head';
+
 import { MouseVariantProvider } from '@/modules/customMouse';
 
 const ArticulatCF = localFont({
@@ -14,13 +16,14 @@ export default function App({ Component, pageProps }: AppProps) {
   return (
     <>
       <Head>
-        <title>Mubashir Ejaz | Full stack Developer</title>
+        <title>Bruno Dzięcielski | Full stack Developer</title>
         <meta
           name="description"
-          content="Portfolio site of Full stack Next.js Developer Mubashir Ejaz."
+          content="Portoflio site of Full stack Next.js Developer Bruno Dzięcielski."
         />
         <meta
-          name="keywords" content="developer,·mubashir,·ejaz,·full·stack"
+          name="keywords"
+          content="developer, bruno, dziecielski, full stack"
         />
         <link rel="icon" href="/favicon.ico" />
       </Head>
