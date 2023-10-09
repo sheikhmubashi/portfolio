@@ -20,8 +20,7 @@ export default function App({ Component, pageProps }: AppProps) {
           content="Portfolio site of Full stack Next.js Developer Mubashir Ejaz."
         />
         <meta
-          name="keywords"
-          content="developer, mubashir, ejaz, full stack"
+          name="keywords" content="developer,·mubashir,·ejaz,·full·stack"
         />
         <link rel="icon" href="/favicon.ico" />
       </Head>
