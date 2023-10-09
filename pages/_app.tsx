@@ -16,14 +16,14 @@ export default function App({ Component, pageProps }: AppProps) {
   return (
     <>
       <Head>
-        <title>Bruno Dzięcielski | Full stack Developer</title>
+        <title>Mubashir Ejaz | Full stack Developer</title>
         <meta
           name="description"
-          content="Portoflio site of Full stack Next.js Developer Bruno Dzięcielski."
+          content="Portoflio site of Full stack Next.js Developer Mubashir Ejaz."
         />
         <meta
           name="keywords"
-          content="developer, bruno, dziecielski, full stack"
+          content="developer, mubashir, ejaz, full stack"
         />
         <link rel="icon" href="/favicon.ico" />
       </Head>
