@@ -14,7 +14,7 @@ export default function App({ Component, pageProps }: AppProps) {
   return (
     <>
       <Head>
-        <title>Mubashir Ejaz | Full stack</title>
+        <title>Mubashir Ejaz | Full stack Developer</title>
         <meta
           name="description"
           content="Portfolio site of Full stack Next.js Developer Mubashir Ejaz."
