@@ -36,11 +36,17 @@ const ProjectsList = () => {
             demo="https://www.broskees.io/"
           />
           <Project
+            title="Hanker"
+            description="Hanker is a product designed for shaping customer data to drive actions through ad tech, consumer tech, and retail tech. I have worked on Hanker's frontend, where I implemented APIs and designed dashboard interfaces, including charts and graphs."
+            // github="https://github.com/sheikhmubashi/broskees"
+            demo="https://hanker.com.pk/"
+          />
+          {/* <Project
             title="Edrella/LMS"
             description="Edrella: A powerful learning management system inspired by Google Classroom and Facebook. Crafted with React, Material-UI, and React Query for an exceptional educational experience."
             github="https://github.com/sheikhmubashi/edrella"
             demo="https://edrella-b5659.web.app"
-          />
+          /> */}
           <Project
             title="Float Boat"
             description="This is a website dedicated to rating boat services, meticulously crafted with React and Material-UI."
