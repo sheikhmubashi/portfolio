@@ -37,7 +37,7 @@ const ProjectsList = () => {
           />
           <Project
             title="Hanker"
-            description="Hanker is a product designed for shaping customer data to drive actions through ad tech, consumer tech, and retail tech. I have worked on Hanker's frontend, where I implemented APIs and designed dashboard interfaces, including charts and graphs."
+            description="Hanker is a product that shapes customer data to drive actions in ad tech. I've worked on Hanker's frontend, implementing APIs and designing dashboards with charts and graphs."
             // github="https://github.com/sheikhmubashi/broskees"
             demo="https://hanker.com.pk/"
           />
