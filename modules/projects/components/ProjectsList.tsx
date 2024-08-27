@@ -11,6 +11,20 @@ const ProjectsList = () => {
       <ScrollOpacity>
         <div className="grid grid-cols-1 place-items-center gap-5 md:grid-cols-2 md:gap-10 xl:grid-cols-3">
           <Project
+            title="The Octopus"
+            description="Octopus is a new platform that connects service providers, solopreneurs, brands, and consumers. It is the first of its kind in the area."
+            // github="https://github.com/sheikhmubashi"
+            demo="https://play.google.com/store/apps/details?id=com.octopusmarket.app"
+            scrollTo
+          />
+          <Project
+            title="Skill Development Council"
+            description="The 'Skill Development Council' project is a web app for managing student enrollments, teacher assignments, and course certifications. Built with Next.js, React Query, and Zod, it streamlines learning management efficiently."
+            // github="https://github.com/sheikhmubashi"
+            demo="https://sdc-dashboard.vercel.app/"
+            scrollTo
+          />
+          <Project
             title="Decotechs/Software House"
             description="Explore the website I developed for my employer's software house, crafted with React and Ant Design – a showcase of digital solutions from our innovative team."
             github="https://github.com/sheikhmubashi/decotechs"
