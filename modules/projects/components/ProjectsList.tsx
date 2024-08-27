@@ -19,7 +19,7 @@ const ProjectsList = () => {
           />
           <Project
             title="Skill Development Council"
-            description="The 'Skill Development Council' project is a web app for managing student enrollments, teacher assignments, and course certifications. Built with Next.js, React Query, and Zod, it streamlines learning management efficiently."
+            description="The 'Skill Development Council' project is a web app for managing students, teachers, and course certifications, built with Next.js and React Query."
             // github="https://github.com/sheikhmubashi"
             demo="https://sdc-dashboard.vercel.app/"
             scrollTo
