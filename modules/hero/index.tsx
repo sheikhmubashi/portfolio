@@ -3,26 +3,6 @@ import { motion } from 'framer-motion';
 import Header from './components/Header';
 import ScrollIndicator from './components/ScrollIndicator';
 
-
-const openInNewTab = () => {
-  setTimeout(() => {
-    window.open(
-      `https://docs.google.com/gview?url=${encodeURIComponent(
-        'pdf/MubashirEjaz.pdf'
-      )}&embedded=true`,
-      "_blank",
-      "noopener,noreferrer"
-    );
-  }, 500); // Delay by 500ms
-  // window.open(
-  //   `https://docs.google.com/gview?url=${encodeURIComponent(
-  //     url
-  //   )}&embedded=true`,
-  //   "_blank",
-  //   "noopener,noreferrer"
-  // );
-};
-
 const Hero = () => {
   return (
     <section
@@ -47,9 +27,8 @@ const Hero = () => {
           Projects
         </button>
         <a
-          onClick={openInNewTab}
           className="scale-btn"
-          // href="pdf/MubashirEjaz.pdf"
+          href="pdf/MubashirEjaz.pdf"
           target="_blank"
         >
           Resume
